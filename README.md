@@ -1,1 +1,2 @@
-"# git_test"  
+"# git_test"
+"This is CHIEBOY's first git project"` 
